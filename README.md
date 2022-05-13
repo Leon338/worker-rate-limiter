@@ -7,6 +7,7 @@
 * Super lightweight (~1KB)
 * No external Dependencies
 * Uses only Cloudflare Products
+* Very Cheap
 
 
 ## Install
