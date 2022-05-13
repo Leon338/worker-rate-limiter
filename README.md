@@ -47,7 +47,7 @@ const blocked = await rateLimiter.limit({
 - Add Cron Trigger to clean the Storage
 - Add multiple blocking Strategies
 - Add an overall Limit
-- Refactor Code
+- Refactor / Optimize Code
 - Add Benchmarks and Monitor Code
 - Unit-Tests
 - Make the Durable Object scaleable
