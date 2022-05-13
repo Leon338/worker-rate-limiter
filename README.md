@@ -46,6 +46,7 @@ const blocked = await rateLimiter.limit({
 - Cache blocked Requests in the Worker
 - Add Cron Trigger to clean the Storage
 - Add multiple blocking Strategies
+- Add an overall Limit
 - Refactor Code
 - Add Benchmarks and Monitor Code
 - Unit-Tests
