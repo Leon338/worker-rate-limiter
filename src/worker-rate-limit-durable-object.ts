@@ -58,7 +58,6 @@ export class WorkerRateLimitDurableObject implements DurableObject {
       'longLimitMap',
       JSON.stringify(Array.from(this.longLimitMap.entries()))
     );
-    console.log('Saved');
   }
 
   async loadLongLimitMap() {
